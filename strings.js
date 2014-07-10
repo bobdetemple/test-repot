@@ -2,5 +2,7 @@
 
 module.exports = {
 
-	msg: "Hello World!"
+	hello: "Hello World!",
+	goodbye: "See you later!"
+
 }
