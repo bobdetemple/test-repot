@@ -1,3 +1,3 @@
+var strings = require('./strings');
 
-
-console.log('Hello World!')
+console.log(strings.msg)
